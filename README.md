@@ -50,7 +50,7 @@ install.packages("factoextra")
 4. Run the script to reproduce the analysis.
 
 ## Author
-Data Science and Analytics Enthusiast
+Jaiyeoba Temitayo
 
 ## Conclusion
 This project provided practical experience in data preprocessing, unsupervised machine learning, cluster visualization, and model evaluation using R.
